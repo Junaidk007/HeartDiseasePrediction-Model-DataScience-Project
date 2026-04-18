@@ -67,7 +67,7 @@ The notebook reports an accuracy of about `0.80` on the test set.
 ## Repository Structure
 
 ```text
-healthcare1/
+HeartDiseasePrediction-Model-DataScience-Project/
 ├── dataset/
 │   └── HeartDiseaseTrain-Test.csv
 ├── model/
